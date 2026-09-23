@@ -2,7 +2,7 @@
 
 **A classification model that predicts college yield (whether an admitted applicant will enroll) from five years of admissions records. It shows that engagement with the university predicts enrollment far better than academic credentials do.**
 
-> Individual course project, Trinity University (Spring 2025)
+> Individual course project, Trinity University (Spring 2024)
 
 ---
 
